@@ -63,7 +63,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila2 PC4:
-
+Modificado el archivo MissatgesNadalencs.java añadiendo mi mensaje personal y haciendo el commit y posteriormente haciendo el git push --set-upstream origin maxi para subirlo al repositorio de github.
 
 #### AlumneFila2 PC5:
 
